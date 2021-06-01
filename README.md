@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate software engineer. I started my journey right after the pandemic hit by learning Python and Sqlite3 with the help of some books and guides. Once I got good enough to use Python to solve data structures and algorithm problems, an opportunity came up for me to attend Fullstack Academy coding bootcamp. I seized the opportunity and as of May 2021 I have officially completed the program learning NERD stack and becoming proficient at using Javascript. I am now ready to begin my software engineering career. 
+
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
