@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
 
 
-### 💫 Whats up! 👋🏾 
+### Whats up! 👋🏾 
 
 My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate software engineer. I started my journey right after the pandemic hit by learning Python and Sqlite3 with the help of some books and Udemy courses. Once I got good enough to use Python to solve data structures and algorithm problems, an opportunity came up for me to attend Fullstack Academy coding bootcamp. I seized the opportunity and as of May 2021 I have officially completed the program learning NERD stack and have gotten proficient at using Javascript. I am now ready to begin my software engineering career. 
 
