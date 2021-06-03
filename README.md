@@ -14,6 +14,12 @@ My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate
 ⚡ Fun fact: I am really interested in astrophysics! I grew up in the inner city and the educational system was not really good. Thanks to books and the internet, I was able to learn about physics and other sciences and really get interested in them. I have found that there is almost nothing I don't find interesting to learn about. Biology, animals, history, astronomy, animation, you name it. This lead me to paying to see Neil Degrasse Tyson speak on astrophysics and the universe to learn more about this world before my inevitable death. 
 
 
+                                                                              📲 Contact Me 📩
+                                                                              
+                                                                           email: keonjukes@gmail.com 
+                                                                   LinkedIn: https://www.linkedin.com/in/keonjukes/
+
+
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
