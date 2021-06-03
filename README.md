@@ -17,7 +17,7 @@ My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate
                                                                📲 Contact Me 📩
                                                                               
                                                           email: keonjukes@gmail.com 
-                                                LinkedIn: https://www.linkedin.com/in/keonjukes/
+                                                Linkedin: https://www.linkedin.com/in/keonjukes/
 
 
 <!--
