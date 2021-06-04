@@ -1,10 +1,8 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/React%20-%23007ACC.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23007ACC.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23007ACC.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="keonjukes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/keonjukes?trk=profile-badge">Keon Jukes</a></div>
-              
+           
 ### Whats up! 👋🏾 
 
 My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate software engineer. I started my journey right after the pandemic hit by learning Python and Sqlite3 with the help of some books and Udemy courses. Once I got good enough to use Python to solve algorithm problems, an opportunity came up for me to attend Fullstack Academy coding bootcamp. I seized the opportunity and as of May 2021 I have officially completed the program learning NERD stack and have gotten proficient at using Javascript. I am now ready to begin my software engineering career. 
