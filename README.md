@@ -2,7 +2,6 @@
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="keonjukes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/keonjukes?trk=profile-badge">Keon Jukes</a></div>
 
 ### Whats up! 👋🏾 
 
