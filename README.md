@@ -13,12 +13,8 @@ My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate
 
 ⚡ Fun fact: I am really interested in astrophysics! I grew up in the inner city and the educational system was not good. Thanks to books and the internet, I was able to learn about physics and other sciences and really get interested in them. I have found that there is almost nothing I don't find interesting to learn about. Biology, animals, history, astronomy, animation, you name it. This lead me to going to see Neil Degrasse Tyson speak on astrophysics and the universe to learn more about this world before my inevitable death.
 
-<iframe src="https://codesandbox.io/embed/webpack-threejs-6uyny?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="webpack-threejs"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+https://codesandbox.io/embed/webpack-threejs-6uyny?fontsize=14&hidenavigation=1&theme=dark
+
 
 Portfolio: https://terraformer-keon.github.io/
 
