@@ -3,15 +3,6 @@
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
            
-### Whats up! 👋🏾 
-
-My name is Keon Jukes and I am a hybrid self taught and coding bootcamp graduate software engineer. I started my journey right after the pandemic hit by learning Python and Sqlite3 with the help of some books and Udemy courses. Once I got good enough to use Python to solve algorithm problems, an opportunity came up for me to attend Fullstack Academy coding bootcamp. I seized the opportunity and as of May 2021 I have officially completed the program learning NERD stack and have gotten proficient at using Javascript. I am now ready to begin my software engineering career. 
-
-🔭 I’m currently working on a Electron.js app which will connect people on projects/task which will be mutually beneficial for both the client and the user who post the project/task. I envision the final version allowing users to record videos explaining the projects/task they need completed to verify they are real (unlike craigslist) and then share it out with other users who can choose whether they want to take on the task or not. Using technology to create symbiosis amongst humans.  
-
-🌙  I’m looking to collaborate on moonshot ideas which will change something in the world for the better. I am rationally optimistic and agree with Henry Ford on human's not really knowing what is impossible for most ideas. Lets just try the big ideas to see where that leads. Experiment and learn from any perceived failures. Don't waste time competing like Peter Thiel says in his book 'Zero To One', instead ignore the comptetion, focus on innovating and coming up with new imaginative ideas!! 🚀
-
-⚡ Fun fact: I am really interested in astrophysics! I grew up in the inner city and the educational system was not good. Thanks to books and the internet, I was able to learn about physics and other sciences and really get interested in them. I have found that there is almost nothing I don't find interesting to learn about. Biology, animals, history, astronomy, animation, you name it.
 
 Portfolio: https://terraformer-keon.github.io/
 
