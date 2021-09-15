@@ -4,15 +4,9 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
            
 
-Portfolio: https://terraformer-keon.github.io/
 
 
 
-
-                                                               📲 Contact Me 📩
-                                                                              
-                                                Linkedin: https://www.linkedin.com/in/keonjukes/
-                                                Portfolio: https://terraformer-keon.github.io/
 
 
 <!--
