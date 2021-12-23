@@ -4,6 +4,9 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
            
 
+- 🔭 I’m currently working on a github-clone for a burgeoning industry
+- 🌱 I’m currently learning Electron.js
+- 👯 I’m looking to collaborate on any innovative projects (preferably moonshots!)
 
 
 
@@ -12,7 +15,6 @@
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
