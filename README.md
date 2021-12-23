@@ -7,8 +7,9 @@
            
 
 - 🔭 I’m currently working on a github-clone for a burgeoning industry
-- 🌱 I’m currently learning Electron.js
-- 👯 I’m looking to collaborate on any innovative projects (preferably moonshots!)
+- 🌱 I’m currently learning Electron.js 
+- 👯 I’m looking to collaborate on any innovative projects (preferably moonshots! 🚀)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keonjukes)
 
 
 
