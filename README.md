@@ -7,9 +7,9 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
 
 
- # Hello Visitors
+ # Hello Visitors 🚀
  
- Here is where most of my projects and the source code associated with them can be found!
+ I am a fullstack software engineer and looking to collaborate on innovative projects!
  
 
 
