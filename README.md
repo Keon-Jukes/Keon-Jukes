@@ -9,7 +9,7 @@
 
  # Hello Visitors 🚀
  
- I am a fullstack software engineer and looking to collaborate on innovative projects!
+ I am a fullstack software engineer and looking to collaborate on innovative projects. The future is being built in the present!
  
 
 
