@@ -9,7 +9,7 @@
 
  # Hello Visitors 🚀
  
- I am a fullstack software engineer and enjoy working on innovative projects. 
+ I am a fullstack software engineer and I enjoy working on innovative projects. 
  
 
 
