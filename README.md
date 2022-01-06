@@ -11,7 +11,8 @@
  
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  
-
+- 🔭 I’m currently working on a management software product for personal chefs and bakers
+- 🌱 I’m currently learning more about burgeoning industries such as Carbon Dioxide Removal(CDR) and Alternative-Protein(Alt-protein)
 
 
 
