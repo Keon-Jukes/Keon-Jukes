@@ -17,7 +17,7 @@
 
 ## stats 💫
 
-[![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=merko&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats)
+[![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=dark&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats)
 
 
 
