@@ -18,11 +18,10 @@
  - ⚡ Fun fact: My favorite food is Salmon! 
 
 ## stats 💫
-
-[![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=dark&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats)
-
+<!-- start -->
+[![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=dark&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats) 
 [![Keon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=terraformer-keon&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&fire=33DD22)](https://git.io/streak-stats)
-
+<!-- end -->
 
 
 
