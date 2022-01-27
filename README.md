@@ -15,7 +15,7 @@
  
  - 🔭 I’m currently working on a project to help connect people with personal chefs
  - 🌱 I’m currently learning more about green software engineering and best practices to reduce my carbon footprint
- - ⚡ Fun fact: I only drink water 
+ - ⚡ Fun fact: I have created and deployed multiple Alexa and Google smart home voice apps being used by many!
 
 ## stats 💫
 <!-- start -->
