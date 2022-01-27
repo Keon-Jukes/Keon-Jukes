@@ -12,9 +12,12 @@
  
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  
+ - 🔭 I’m currently working on a project to help connect people with personal chefs
+ - 🌱 I’m currently learning more about green software engineering and best practices to reduce my carbon footprint
 
+## stats 💫
 
-
+[![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon)](https://github.com/terraformer-keon/github-readme-stats)
 
 
 
