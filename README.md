@@ -15,7 +15,7 @@
  
  - 🔭 I’m currently working on a project to help connect people with personal chefs
  - 🌱 I’m currently learning more about green software engineering and best practices to reduce my carbon footprint
- - ⚡ Fun fact: My favorite food is Salmon! 
+ - ⚡ Fun fact: I only drink water 
 
 ## stats 💫
 <!-- start -->
