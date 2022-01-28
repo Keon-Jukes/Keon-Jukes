@@ -24,7 +24,7 @@
 <!-- end -->
 
 ### Motto
-![](https://github.com/terraformer-keon/terraformer-keon/blob/main/keon.gif?raw=true)
+![](https://github.com/terraformer-keon/terraformer-keon/blob/main/ThinkKeon.gif?raw=true)
 
 > Create more than you consume.
 
