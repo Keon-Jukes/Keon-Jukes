@@ -23,6 +23,9 @@
 [![Keon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=terraformer-keon&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&fire=33DD22)](https://git.io/streak-stats)
 <!-- end -->
 
+### Remember
+![](https://github.com/terraformer-keon/terraformer-keon/blob/main/AlwaysCoding.gif?raw=true)
+
 
 
 <!--
