@@ -26,7 +26,7 @@
 ### Motto
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/ThinkKeon.gif?raw=true)
 
-> "Create more than you consume."
+>  ̶S̶t̶a̶r̶t̶ ̶C̶r̶e̶a̶t̶i̶n̶g̶  || Think First
 
 
 
