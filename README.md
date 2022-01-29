@@ -14,8 +14,8 @@
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  
  - 🔭 I’m currently working on a project to help connect people with personal chefs
- - 🌱 I’m currently learning more about green software engineering and best practices to reduce my carbon footprint
- - ⚡ Fun fact: I have created and deployed multiple Alexa and Google smart home voice apps being used by many!
+ - 🌱 I’m currently learning more about Carbon Dioxide Removal and best practices to reduce my carbon footprint
+ - ⚡ Fun fact: I have created and deployed multiple Amazon Alexa and Google Home voice apps being used by many all over the world!🌎 
 
 ## stats 💫
 <!-- start -->
@@ -26,7 +26,7 @@
 ### Motto
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/ThinkKeon.gif?raw=true)
 
-> Create more than you consume.
+> "Create more than you consume."
 
 
 
