@@ -26,7 +26,7 @@
 ### Motto
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/ThinkKeon.gif?raw=true)
 
->  ̶S̶t̶a̶r̶t̶ ̶C̶r̶e̶a̶t̶i̶n̶g̶  || Think First
+>  ̶S̶t̶a̶r̶t̶ ̶c̶r̶e̶a̶t̶i̶n̶g̶ Think First
 
 
 
