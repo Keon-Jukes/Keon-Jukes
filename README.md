@@ -26,7 +26,7 @@
 ### Motto
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/ThinkKeon.gif?raw=true)
 
-> 🧠💭
+
 
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
