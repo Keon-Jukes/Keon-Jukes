@@ -24,7 +24,7 @@
 <!-- end -->
 
 ### Motto
-![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes1.gif?raw=true)
+![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
 
 
