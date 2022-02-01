@@ -17,13 +17,13 @@
  - 🌱 I’m currently learning more about carbon dioxide removal and best practices to reduce my carbon footprint
  - ⚡ Fun fact: I have created and deployed multiple Amazon Alexa and Google Home voice apps being used daily!🌎 
 
-## stats 💫
+## stats
 <!-- start -->
 [![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=dark&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats) 
 [![Keon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=terraformer-keon&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&fire=33DD22)](https://git.io/streak-stats)
 <!-- end -->
 
-### Motto 🙌🏾
+### Motto
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
 
