@@ -16,7 +16,7 @@
  - 🔭 I’m currently working on a project that will change the way we eat
  - 🌱 I’m currently learning about carbon dioxide removal and best practices to reduce my carbon footprint
  - ⚡ Fun fact: I created and deployed multiple Amazon Alexa and Google Home voice apps being used daily🌎 
- [](https://codesandbox.io/embed/eloquent-surf-wojun?fontsize=14&hidenavigation=1&theme=dark)
+ https://codesandbox.io/embed/eloquent-surf-wojun?fontsize=14&hidenavigation=1&theme=dark
 
 ## stats
 <!-- start -->
