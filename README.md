@@ -15,15 +15,8 @@
  
  - 🔭 I’m currently working on a project that will change the way we eat
  - 🌱 I’m currently learning about carbon dioxide removal and best practices to reduce my carbon footprint
- - ⚡ Fun fact: I created and deployed multiple Amazon Alexa and Google Home voice apps being used daily🌎 
- 
- <iframe src="https://codesandbox.io/embed/optimistic-alex-u76r0?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="optimistic-alex-u76r0"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
+ - ⚡ Fun fact: I created and deployed multiple Amazon Alexa and Google Home voice apps being used daily 🌎 
+ - 
 ## stats
 <!-- start -->
 [![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=dark&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats) 
