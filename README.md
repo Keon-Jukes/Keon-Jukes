@@ -15,7 +15,7 @@
  
  - 🔭 I’m currently working on a project that will change the way people eat
  - 🌱 I’m currently learning about carbon dioxide removal and best practices to reduce my carbon footprint
- - ⚡ Fun fact: I created and deployed multiple Amazon Alexa and Google Home voice apps being used daily all over🌎 
+ - ⚡ Fun fact: I created and deployed multiple Amazon Alexa and Google Home voice apps being used daily🌎 
  
 ## stats
 <!-- start -->
