@@ -26,13 +26,6 @@
 ### Motto ☑️
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-### Wisdom 🧠
->> <table><tr><td>
-  “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey** 🙌🏿
-</td></tr></table>
-
-
-
 <iframe src="https://codesandbox.io/embed/laughing-grass-xeqmk?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="laughing-grass-xeqmk"
@@ -42,6 +35,15 @@
    
    Using `<iframe>` tag
 <iframe src="https://codesandbox.io/embed/6zk98l6w0k" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+
+### Wisdom 🧠
+> <table><tr><td>
+  “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey** 🙌🏿
+</td></tr></table>
+
+
+
+
    
 
 
