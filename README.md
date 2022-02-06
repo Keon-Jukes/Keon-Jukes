@@ -28,7 +28,7 @@
 
 > "Through every dark night, there's a bright day after that.
 So no matter how hard it gets, stick your chest out,
-keep your head up, and handle it" - Tupac
+keep your head up, and handle it" - Tupac (via. Me Against The World)
 
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
