@@ -26,9 +26,7 @@
 ### Motto
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-> "Through every dark night, there's a bright day after that.
-So no matter how hard it gets, stick your chest out,
-keep your head up, and handle it" - Tupac (via. Me Against The World)
+>  “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - Marcus Garvey
 
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
