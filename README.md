@@ -26,6 +26,17 @@
 ### Motto ☑️
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
+<details>
+<summary>Heading</summary>
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
+</details>
 
 ### Wisdom 🧠
 > <table><tr><td>
