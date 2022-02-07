@@ -30,12 +30,12 @@
 > <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey** 🙌🏿
 </td></tr></table>
-
+>
 
 <details>
 <summary>Contact</summary>
 <ul>
-<li> markdown list 1</li>
+<li> [LinkedIn](https://www.linkedin.com/in/keonjukes)</li>
 <ul>
 <li> nested list 1</li>
 <li> nested list 2</li>
