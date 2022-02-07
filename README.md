@@ -26,7 +26,6 @@
 ### Motto ☑️
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-![](https://placehold.it/350x90/009955/fff?text=Win)
 
 ### Wisdom 🧠
 > <table><tr><td>
