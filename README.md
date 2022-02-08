@@ -13,7 +13,7 @@
  
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  
- - 🔭 I’m currently working on a project that will help people lead healthier lives with more nutritious meals
+ - 🔭 I’m currently working on a project that will help people consistently source healthy meals throughout their busy days, weeks, months, and years!
  - 🌱 I’m currently learning about carbon dioxide removal and best practices to reduce my carbon footprint
  - ⚡ Fun fact: I created and deployed multiple Amazon Alexa and Google Home voice apps being used daily🌎 
  
