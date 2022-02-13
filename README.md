@@ -14,7 +14,7 @@
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  l
  - 🔭 I’m currently brainstorming project ideas
- - 🌱 I’m currently learning about carbon dioxide removal and the many ways to stop climate change
+ - 🌱 I’m currently learning about carbon dioxide removal and the many ways to reduce carbon emissions and capture it from the atmosphere
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily 
  
 ## Stats 📈
