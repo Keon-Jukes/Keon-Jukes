@@ -33,7 +33,7 @@
 </td></tr></table>
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
-![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer")
+<!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
 
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
