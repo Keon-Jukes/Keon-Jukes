@@ -36,13 +36,7 @@
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
 ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Contact%20%20(4).png?raw=true "Footer")
 
-<script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/iltqorsz.json"
-    trigger="loop"
-    colors="primary:#121331,secondary:#08a88a"
-    style="width:250px;height:250px">
-</lord-icon>
+
 
 <!--
 **terraformer-keon/terraformer-keon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
