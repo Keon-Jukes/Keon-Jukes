@@ -26,13 +26,6 @@
 ### Motto ☑️
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
 ### Wisdom 🧠
 
  > <table><tr><td>
@@ -46,7 +39,18 @@
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
+
+```mermaid
+  graph TD;
+      A[Use your mind]--> B{Think};
+      B--problem?--> C[Fix something in the world];
+      B--idea --> D[add something to theworld];
+      C----> E[Take Action!];
+      D----> E[Take Action!];
+      E---> F[Repeat]
+```
 ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Contact%20%20(4).png?raw=true "Footer")
+
 
 
 <!--
