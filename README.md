@@ -33,7 +33,7 @@
 </td></tr></table>
 
 <table><tr><td>
-  “I trust that you will so live today as to realize that you are masters of your own destiny, masters of your fate; if there is anything you want in this world, it is for you to strike out with confidence and faith in self and reach for it.” - **Marcus Garvey**
+  “I trust that you will so live today as to realize that you are masters of your own destiny, masters of your fate; if there is anything you want in this world, it is for you to strike out with confidence and faith in self and reach for it.” - Marcus Garvey
 </td></tr></table>
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
