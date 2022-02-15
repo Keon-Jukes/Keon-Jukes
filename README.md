@@ -42,7 +42,7 @@
       B--idea? --> D[add something new to the world];
       C--plan--> E[Take Action!];
       D--plan--> E[Take Action!];
-      E---> F[Repeat]
+      E--measure results--> F[Repeat]
 ```
 
 <!-- ## Contact Me
