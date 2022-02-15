@@ -34,7 +34,9 @@
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
-
+<details>
+<summary>Remember</summary>
+<br>
 ```mermaid
   graph TD;
       A[Use your mind]--> B{Think};
@@ -44,6 +46,8 @@
       D--plan--> E[Take Action!];
       E---> F[Repeat]
 ```
+</details>
+
 
 <!-- ## Contact Me
 [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") -->
