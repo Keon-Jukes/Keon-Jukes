@@ -32,6 +32,10 @@
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
 </td></tr></table>
 
+<table><tr><td>
+  “Ambition is the desire to go forward and improve one's condition. It is a burning flame that lights up the life of the individual and makes him see himself in another state. To be ambitious is to be great in mind and soul. To want that which is worth while and strive for it. To go on without looking back, reaching to that which gives satisfaction.” - **Marcus Garvey**
+</td></tr></table>
+
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
 ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Contact%20%20(4).png?raw=true "Footer")
