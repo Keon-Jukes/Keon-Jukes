@@ -44,6 +44,11 @@
       D--plan--> E[Take Action!];
       E---> F[Repeat]
 ```
+
+
+![1540765056](https://user-images.githubusercontent.com/65476902/154097949-f63b3452-f873-4677-93ad-aef0c7572fbc.svg)
+
+
 <!-- ## Contact Me
 [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") -->
 
