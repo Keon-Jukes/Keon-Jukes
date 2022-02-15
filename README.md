@@ -45,10 +45,6 @@
       E---> F[Repeat]
 ```
 
-
-![tarantula](https://user-images.githubusercontent.com/65476902/154098039-3bb0c05f-2499-4541-877e-f1e4f0e1dac7.svg)
-
-
 <!-- ## Contact Me
 [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") -->
 
