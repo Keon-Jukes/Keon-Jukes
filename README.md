@@ -26,6 +26,13 @@
 ### Motto ☑️
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 ### Wisdom 🧠
 
  > <table><tr><td>
