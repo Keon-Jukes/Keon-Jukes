@@ -44,7 +44,7 @@
   graph TD;
       A[Use your mind]--> B{Think};
       B--problem?--> C[Fix something in the world];
-      B--idea --> D[add something to theworld];
+      B--idea --> D[add something new to the world];
       C----> E[Take Action!];
       D----> E[Take Action!];
       E---> F[Repeat]
