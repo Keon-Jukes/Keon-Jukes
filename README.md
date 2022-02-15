@@ -33,7 +33,7 @@
 </td></tr></table>
 
 <table><tr><td>
-  “Ambition is the desire to go forward and improve one's condition. It is a burning flame that lights up the life of the individual and makes him see himself in another state. To be ambitious is to be great in mind and soul. To want that which is worth while and strive for it. To go on without looking back, reaching to that which gives satisfaction.” - Marcus Garvey
+  “I trust that you will so live today as to realize that you are masters of your own destiny, masters of your fate; if there is anything you want in this world, it is for you to strike out with confidence and faith in self and reach for it.” - **Marcus Garvey**
 </td></tr></table>
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
