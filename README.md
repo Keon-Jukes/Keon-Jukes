@@ -44,10 +44,11 @@
   graph TD;
       A[Use your mind]--> B{Think};
       B--problem?--> C[Fix something in the world];
-      B--idea --> D[add something new to the world];
+      B--idea? --> D[add something new to the world];
       C----> E[Take Action!];
       D----> E[Take Action!];
       E---> F[Repeat]
+      F----> A
 ```
 ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Contact%20%20(4).png?raw=true "Footer")
 
