@@ -40,8 +40,8 @@
       A[Use your mind]--> B{Think};
       B--problem?--> C[Fix something in the world];
       B--idea? --> D[add something new to the world];
-      C----> E[Take Action!];
-      D----> E[Take Action!];
+      C--plan--> E[Take Action!];
+      D--plan--> E[Take Action!];
       E---> F[Repeat]
 ```
 ## Contact Me
