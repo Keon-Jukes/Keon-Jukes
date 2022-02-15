@@ -32,11 +32,6 @@
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
 </td></tr></table>
 
-<table><tr><td>
-  “I trust that you will so live today as to realize that you are masters of your own destiny, masters of your fate; if there is anything you want in this world, it is for you to strike out with confidence and faith in self and reach for it.” - Marcus Garvey
-</td></tr></table>
-
-
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
 
@@ -50,6 +45,7 @@
       E---> F[Repeat]
 ```
 ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Contact%20%20(4).png?raw=true "Footer")
+[link](https://linkedin.com/in/keonjukes "Contact me")
 
 
 
