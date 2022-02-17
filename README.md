@@ -28,29 +28,21 @@
 
 ### Wisdom 🧠
 
- > <table><tr><td>
+  <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
 </td></tr></table>
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
 
-```mermaid
-  graph TD;
-      A[Use your mind]--> B{Think};
-      B--problem?--> C[Fix something in the world];
-      B--idea? --> D[add something new to the world];
-      C--plan--> E[Take Action!];
-      D--plan--> E[Take Action!];
-      E--measure results--> F[Repeat]
-```
+
 
 <!-- ## Contact Me
 [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") -->
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Contact%20%20(4).png?raw=true "Footer") -->
 
-![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/footNote.png?raw=true "Footer")
+<!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/footNote.png?raw=true "Footer") -->
 
 
 
