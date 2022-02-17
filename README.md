@@ -14,7 +14,6 @@
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  
  - 🔭 I'm currently exploring different JS frameworks
- - 🌱 I’m currently learning about carbon dioxide removal and the many ways to reduce, capture, and store CO2
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily 
  
 ## Stats 📈
@@ -28,9 +27,9 @@
 
 ### Wisdom 🧠
 
-> <table><tr><td>
+<!-- > <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
-</td></tr></table>
+</td></tr></table> -->
 
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/Create_banner.png?raw=true "Footer") -->
 <!-- ![image](https://github.com/terraformer-keon/terraformer-keon/blob/main/GitHubBanner%20(1).png?raw=true "Footer") -->
