@@ -13,7 +13,7 @@
  
  I am a fullstack software engineer and I enjoy working on innovative projects. 
  
- - 🔭 I'm currently brainstorming project ideas
+ - 🔭 I'm currently brainstorming project ideas to build
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily 
  
 ## Stats 📈
