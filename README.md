@@ -9,9 +9,9 @@
 <!-- ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=#F05032) -->
 
 
-  # Hello
+  # Whats up!
  
- I'm fullstack software engineer, with a primary focus on frontend development, and I enjoy working on innovative projects. 
+ I'm fullstack software engineer, currently focusing more on frontend development, and I enjoy working on innovative projects. 
 
  - 🌱 I’m currently learning more about React Three Fiber to add 3D animations to my websites
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily
@@ -26,11 +26,11 @@
 ### Motto 
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-### Wisdom 🧠
+<!-- ### Wisdom 🧠
 
 > <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
-</td></tr></table> 
+</td></tr></table>  -->
 
 
 
