@@ -9,7 +9,7 @@
 <!-- ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=#F05032) -->
 
 
-  # Whats up!
+  # Whats up! 🚀
  
  I'm fullstack software engineer, currently focusing more on frontend development, and I enjoy working on innovative projects. 
 
@@ -17,7 +17,7 @@
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily
  -  - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") 
  
- ## Stats
+ ## Stats 
 <!-- start -->
 [![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=terraformer-keon&theme=dark&hide=stars,issues&show_icons=true)](https://github.com/terraformer-keon/github-readme-stats) 
 [![Keon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=terraformer-keon&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&fire=33DD22)](https://git.io/streak-stats)
