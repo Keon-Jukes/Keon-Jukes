@@ -26,11 +26,11 @@
 ### Motto 
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-<!-- ### Wisdom 🧠
+### Wisdom 🧠
 
 > <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
-</td></tr></table>  -->
+</td></tr></table> 
 
 
 
