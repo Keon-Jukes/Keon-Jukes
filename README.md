@@ -15,7 +15,7 @@
 
  - 🌱 I’m currently learning more about React Three Fiber to add 3D animations to my websites
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily
- -  - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") 
+ - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/keonjukes "Contact me") 
  
  ## Stats 
 <!-- start -->
