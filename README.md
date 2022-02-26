@@ -11,9 +11,9 @@
 
   # Whats up! 🚀
  
- I'm a fullstack software engineer, currently focusing more on frontend development, and I enjoy working on innovative projects. 
+ I'm a fullstack software engineer and I enjoy working on innovative projects. 
 
- - 🌱 I’m currently learning more about React Three Fiber to add 3D animations to my projects.
+ - 🌱 I’m currently exploring different JS frameworks
  - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily
 
  
