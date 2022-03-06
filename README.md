@@ -12,10 +12,6 @@
   # Whats up! 🚀
  
  I'm a fullstack software engineer and I enjoy working on innovative projects. 
-
- - 🌱 I’m currently exploring different JS frameworks
- - ⚡ Fun fact: I've created and deployed multiple Amazon Alexa and Google Home voice apps being used daily
-
  
  ## Stats 
 <!-- start -->
