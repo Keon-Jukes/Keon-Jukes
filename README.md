@@ -11,7 +11,7 @@
 
   # Hello
  
- I'm a fullstack software engineer and I enjoy working on innovative projects! 
+ I enjoy working on innovative projects! 
  
 ## Stats 
 <!-- start -->
