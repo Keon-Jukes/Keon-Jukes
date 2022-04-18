@@ -11,7 +11,7 @@
 
   # Hello
  
- I enjoy working on innovative projects! 
+ I like to create stuff
  
 ## Stats 
 <!-- start -->
