@@ -9,9 +9,9 @@
 <!-- ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=#F05032) -->
 
 
-  # Hello
+  # Welcome
  
- I like to create stuff
+ I am a fullstack trained software engineer
  
 ## Stats 
 <!-- start -->
