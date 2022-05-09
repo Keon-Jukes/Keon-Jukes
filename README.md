@@ -11,7 +11,7 @@
 
   # Welcome
  
- I am a fullstack trained software engineer
+ 
  
 ## Stats 
 <!-- start -->
