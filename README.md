@@ -11,6 +11,7 @@
 
   # Welcome
  
+ My name is Keon and I am a frontend developer.
  
  
 ## Stats 
