@@ -11,7 +11,7 @@
 
   # Welcome
  
- My name is Keon and I am a frontend developer.
+ I'm a frontend focused develoepr and I enjoy working on innovative projects!
  
  
 ## Stats 
