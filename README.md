@@ -11,7 +11,7 @@
 
   # Welcome
  
- I'm a frontend focused develoepr and I enjoy working on innovative projects!
+ I'm a frontend develoepr and I enjoy building innovative products/services!
  
  
 ## Stats 
