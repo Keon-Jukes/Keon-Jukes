@@ -31,8 +31,8 @@
 
 
 
-## Contact Me
-[LinkedIn](https://linkedin.com/in/keonjukes "Contact me")
+<!-- ## Contact Me
+[LinkedIn](https://linkedin.com/in/keonjukes "Contact me") -->
 
 
 
