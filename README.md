@@ -20,14 +20,14 @@
 [![Keon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keon-Jukes&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&fire=33DD22)](https://git.io/streak-stats)
 <!-- end -->  
 
-### Motto 
-![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
-
 ### Wisdom 🧠
 
 > <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
 </td></tr></table> 
+
+### Motto 
+![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
 
 
