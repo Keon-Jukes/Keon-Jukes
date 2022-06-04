@@ -11,7 +11,7 @@
 
   # Welcome
  
- I'm a frontend developer and I enjoy building innovative products/services!
+ I'm a frontend developer and I enjoy building innovative products/services.
  
  
 ## Stats 
@@ -23,16 +23,16 @@
 ### Motto 
 ![](https://github.com/terraformer-keon/terraformer-keon/blob/main/Keon_codes7.gif?raw=true)
 
-<!-- ### Wisdom 🧠
+### Wisdom 🧠
 
 > <table><tr><td>
   “Never forget that intelligence rules the world and ignorance carries the burden. Therefore, remove yourself as far from ignorance as possible and seek as far as possible to be intelligent.” - **Marcus Garvey**
-</td></tr></table>  -->
+</td></tr></table> 
 
 
 
-<!-- ## Contact Me
-[LinkedIn](https://linkedin.com/in/keonjukes "Contact me") -->
+## Contact Me
+[LinkedIn](https://linkedin.com/in/keonjukes "Contact me")
 
 
 
