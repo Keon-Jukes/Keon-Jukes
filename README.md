@@ -20,7 +20,7 @@
 [![Keon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keon-Jukes&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&fire=33DD22)](https://git.io/streak-stats)
 <!-- end -->  
 
-<!-- ![image](https://github.com/Keon-Jukes/Keon-Jukes/blob/main/ezgif.com-gif-maker.gif?raw=true) -->
+![image](https://github.com/Keon-Jukes/Keon-Jukes/blob/main/ezgif.com-gif-maker%20(2).gif)
 
 ### Wisdom 🧠
 
