@@ -21,6 +21,7 @@
 <!-- end -->  
 
 <!-- ![image](https://github.com/Keon-Jukes/Keon-Jukes/blob/main/ezgif.com-gif-maker%20(2).gif) -->
+![image](https://github.com/Keon-Jukes/Keon-Jukes/blob/main/ezgif.com-gif-maker%20(5).gif)
 
 ### Wisdom 🧠
 
