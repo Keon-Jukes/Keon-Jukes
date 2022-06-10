@@ -11,7 +11,7 @@
 
   # Welcome
  
- I'm a frontend developer and I enjoy building innovative products/services.
+ I'm a frontend developer and I like to work on the world's moonshot problems!
  
  
 ## Stats 
