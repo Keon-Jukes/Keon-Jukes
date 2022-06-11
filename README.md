@@ -11,7 +11,7 @@
 
   # Welcome
  
- I'm a frontend developer and I want to work on the world's moonshot problems.
+ I'm a frontend developer and I want to work on the world's moonshot problems!
  
  
 ## Stats 
