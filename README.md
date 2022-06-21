@@ -10,7 +10,7 @@
 
 
   # Welcome
- I'm a frontend developer and enjoy using creative problem solving to build useful applications!
+ I'm a frontend developer and enjoy using creative problem solving to build useful applications.
  
  
 ## Stats 
