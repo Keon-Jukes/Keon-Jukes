@@ -10,7 +10,7 @@
 
 
   # Welcome
- I'm a fullstack Trained, frontend focused, developer and I enjoy using creative problem solving to build useful applications.
+ I'm a fullstack Trained, frontend focused, developer and I enjoy using creative problem solving to build useful applications!
  
  
 ## Stats 
